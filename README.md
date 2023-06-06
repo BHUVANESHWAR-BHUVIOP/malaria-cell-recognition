@@ -171,7 +171,7 @@ plt.show()
 
 <br>
 ### Classification Report:
-![o](cr.png)
+![o](cr.Png)
 
 
 <br>
