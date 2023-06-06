@@ -34,6 +34,8 @@ Evaluate the model with the testing data using probability prediction(uninfected
 Fit the model and predict the sample input.
 
 ## PROGRAM:
+NAME : BHUVANESHWAR V
+REG N0 :212221240009
 ```python
 import os
 import pandas as pd
@@ -170,6 +172,8 @@ plt.show()
 <br>
 ### Classification Report:
 ![o](cr.png)
+
+
 <br>
 ### Confusion Matrix:
 
