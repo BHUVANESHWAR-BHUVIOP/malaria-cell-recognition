@@ -171,7 +171,8 @@ plt.show()
 
 <br>
 ### Classification Report:
-![o](cr.Png)
+
+![cr](https://github.com/BHUVANESHWAR-BHUVIOP/malaria-cell-recognition/assets/94155099/a45cd961-7475-4095-9c6f-6f2ce59c5d18)
 
 
 <br>
