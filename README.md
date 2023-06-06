@@ -164,20 +164,23 @@ plt.show()
 ## OUTPUT:
 
 ### Training Loss, Validation Loss Vs Iteration Plot:
+![training](https://github.com/BHUVANESHWAR-BHUVIOP/malaria-cell-recognition/assets/94155099/b2d492d2-b2f8-4c0b-832c-8c9b033d4975)
 
-![image]()
+
 <br>
 ### Classification Report:
+![cr](https://github.com/BHUVANESHWAR-BHUVIOP/malaria-cell-recognition/assets/94155099/3bf9a52f-2a6d-4a25-af46-6afb4391df37)
 
-![image]()
 <br>
 ### Confusion Matrix:
 
-![image]()
+![cm](https://github.com/BHUVANESHWAR-BHUVIOP/malaria-cell-recognition/assets/94155099/47f1e68a-6ca6-452d-b808-831969947968)
+
 <br>
 ### New Sample Data Prediction:
 
 
+![Screenshot 2023-06-06 112400](https://github.com/BHUVANESHWAR-BHUVIOP/malaria-cell-recognition/assets/94155099/2b978ec6-df1f-490c-b5a1-309e54c48d9c)
 
 
 
