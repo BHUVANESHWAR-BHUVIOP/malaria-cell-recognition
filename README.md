@@ -169,7 +169,7 @@ plt.show()
 
 <br>
 ### Classification Report:
-![cr](https://github.com/BHUVANESHWAR-BHUVIOP/malaria-cell-recognition/assets/94155099/3bf9a52f-2a6d-4a25-af46-6afb4391df37)
+![cr](https://github.com/BHUVANESHWAR-BHUVIOP/malaria-cell-recognition/assets/94155099/91e49c24-3f54-426e-ac81-f4a1367450e7)
 
 <br>
 ### Confusion Matrix:
