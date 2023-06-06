@@ -169,8 +169,7 @@ plt.show()
 
 <br>
 ### Classification Report:
-![Screenshot 2023-06-06 112553](https://github.com/BHUVANESHWAR-BHUVIOP/malaria-cell-recognition/assets/94155099/8ff5e645-6461-4501-b0d3-d2f981a421a9)
-
+![o](cr.png)
 <br>
 ### Confusion Matrix:
 
